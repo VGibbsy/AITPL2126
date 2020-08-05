@@ -5,10 +5,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2380ebde-2879-4ede-87ab-9de2390ae178" name="Default Changelist" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/Rough work/states and capitals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2380ebde-2879-4ede-87ab-9de2390ae178" name="Default Changelist" comment="Working Things" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -316,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596614613763</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Working Things">
+      <created>1596617697428</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1596617697428</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -343,13 +347,14 @@
     <MESSAGE value="Prime given range" />
     <MESSAGE value="Assignment 1" />
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="Working Things" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working Things" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="654" y="275" key="#Notifications" timestamp="1595930515136">
+    <state x="654" y="275" key="#Notifications" timestamp="1596617740395">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="654" y="275" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1595930515136" />
+    <state x="654" y="275" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1596617740395" />
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595926305198">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -362,22 +367,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="147" y="65" width="1228" height="687" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1596259255922" />
-    <state width="1499" height="141" key="GridCell.Tab.0.bottom" timestamp="1596573228141">
+    <state width="1500" height="264" key="GridCell.Tab.0.bottom" timestamp="1596617627228">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1499" height="141" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596573228141" />
-    <state width="1499" height="141" key="GridCell.Tab.0.center" timestamp="1596573228141">
+    <state width="1500" height="264" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596617627228" />
+    <state width="1500" height="264" key="GridCell.Tab.0.center" timestamp="1596617627228">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1499" height="141" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596573228141" />
-    <state width="1499" height="141" key="GridCell.Tab.0.left" timestamp="1596573228141">
+    <state width="1500" height="264" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596617627228" />
+    <state width="1500" height="264" key="GridCell.Tab.0.left" timestamp="1596617627228">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1499" height="141" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596573228141" />
-    <state width="1499" height="141" key="GridCell.Tab.0.right" timestamp="1596573228141">
+    <state width="1500" height="264" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596617627228" />
+    <state width="1500" height="264" key="GridCell.Tab.0.right" timestamp="1596617627228">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1499" height="141" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596573228141" />
+    <state width="1500" height="264" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596617627228" />
     <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1596395399675">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -402,18 +407,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596614442664" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596572540041">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1596617713764">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596572540041" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1596617713764" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595927457865">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1595927457865" />
-    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596392173859">
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596617728247">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1596392173859" />
+    <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1596617728247" />
     <state x="570" y="319" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1595927213938">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
