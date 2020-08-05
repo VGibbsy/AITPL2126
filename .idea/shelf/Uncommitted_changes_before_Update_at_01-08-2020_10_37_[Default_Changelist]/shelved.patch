@@ -1,0 +1,14 @@
+Index: Largest of 3 numbers.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>num1=input('Enter the first number: ')\r\nnum2=input('Enter the second number: ')\r\nnum3=input('Enter the third number: ')\r\nif (num1 >= num2) and (num1 >= num3) :\r\n    lnum=num1\r\nelif (num2 >=num1) and (num2 >=  num3) :\r\n    lnum=num2\r\nelse:\r\n    lnum=num3\r\nprint('The largest of {},{},{} given numbers is {}'.format(num1,num2,num3,lnum))\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Largest of 3 numbers.py	(revision 17183afb4087484a308fd9c25a43fee42a87653c)
++++ Largest of 3 numbers.py	(date 1596258436693)
+@@ -8,4 +8,3 @@
+ else:
+     lnum=num3
+ print('The largest of {},{},{} given numbers is {}'.format(num1,num2,num3,lnum))
+-
