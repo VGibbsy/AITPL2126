@@ -5,7 +5,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2380ebde-2879-4ede-87ab-9de2390ae178" name="Default Changelist" comment="Assignment 1" />
+    <list default="true" id="2380ebde-2879-4ede-87ab-9de2390ae178" name="Default Changelist" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/Rough work/states and capitals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +49,7 @@
       <recent name="E:\Working file\Aialz Tech\Assignment\Assignment\Assignment" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3rd and 5th smallest">
+  <component name="RunManager" selected="Python.states and capitals">
     <configuration name="2nd and 4th largestt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignment" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dww" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="states and capitals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignment" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Rough work" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dww.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rough work/states and capitals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,19 +156,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.+-0 without if else while" />
+      <item itemvalue="Python.Pyramid" />
       <item itemvalue="Python.2nd and 4th largestt" />
       <item itemvalue="Python.3rd and 5th smallest" />
-      <item itemvalue="Python.Pyramid" />
-      <item itemvalue="Python.+-0 without if else while" />
-      <item itemvalue="Python.dww" />
+      <item itemvalue="Python.states and capitals" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.states and capitals" />
         <item itemvalue="Python.3rd and 5th smallest" />
         <item itemvalue="Python.+-0 without if else while" />
         <item itemvalue="Python.2nd and 4th largestt" />
         <item itemvalue="Python.Pyramid" />
-        <item itemvalue="Python.dww" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596572529303</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Commit">
+      <created>1596614613763</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1596614613763</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -331,9 +341,9 @@
     <MESSAGE value="Largest of 3 numbers updated" />
     <MESSAGE value="Prime" />
     <MESSAGE value="Prime given range" />
-    <MESSAGE value="Commit" />
     <MESSAGE value="Assignment 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment 1" />
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="654" y="275" key="#Notifications" timestamp="1595930515136">

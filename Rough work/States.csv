@@ -1,0 +1,30 @@
+Sl no,State,ISO ID,Vehicle code,Zone,Capital,Statehood,Population,Area(km2),Official Language
+1,Andhra Pradesh,IN-AP,AP,Southern,Visakhapatnam,01-Nov-56,"4,95,06,799","1,60,205",Telugu
+2,Arunachal Pradesh,IN-AR,AR,North-Eastern,Itanagar,20-Feb-87,"13,83,727","83,743",English
+3,Assam,IN-AS,AS,North-Eastern,Dispur,26-Jan-50,"3,12,05,576","78,550",Assamese
+4,Bihar,IN-BR,BR,Eastern,Patna,26-Jan-50,"10,40,99,452","94,163",Hindi
+5,Chhattisgarh,IN-CT,CG,Central,Naya Raipur,01-Nov-00,"2,55,45,198","1,35,194",Hindi
+6,Goa,IN-GA,GA,Western,Panaji,30-May-87,"14,58,545","3,702",Konkani
+7,Goa,IN-GA,GA,Western,Panaji,30-May-87,"14,58,545","3,702",Konkani
+8,Gujarat,IN-GJ,GJ,Western,Gandhinagar,01-May-60,"6,04,39,692","1,96,024",Gujarati
+9,Haryana,IN-HR,HR,Northern,Chandigarh,01-Nov-66,"2,53,51,462","44,212",Hindi
+10,Himachal Pradesh,IN-HP,HP,Northern,Shimla,25-Jan-71,"68,64,602","55,673",Hindi
+11,Jharkhand,IN-JH,JH,Eastern,Ranchi,15-Nov-00,"3,29,88,134","74,677",Hindi
+12,Karnataka,IN-KA,KA,Southern,Bangalore,01-Nov-56,"6,10,95,297","1,91,791",Kannada
+13,Kerala,IN-KL,KL,Southern,Thiruvananthapuram,01-Nov-56,"3,34,06,061","38,863",Malayalam
+14,Madhya Pradesh,IN-MP,MP,Central,Bhopal,26-Jan-50,"7,26,26,809","3,08,252",Hindi
+15,Maharashtra,IN-MH,MH,Western,Mumbai,01-May-60,"11,23,74,333","3,07,713",Marathi
+16,Manipur,IN-MN,MN,North-Eastern,Imphal,21-Jan-72,"28,55,794","22,347",Meitei
+17,Meghalaya,IN-ML,ML,North-Eastern,Shillong,21-Jan-72,"29,66,889","22,720",English
+18,Mizoram,IN-MZ,MZ,North-Eastern,Aizawl,20-Feb-87,"10,97,206","21,081","English, Hindi, Mizo"
+19,Nagaland,IN-NL,NL,North-Eastern,Kohima,01-Dec-63,"19,78,502","16,579",English
+20,Odisha,IN-OR,OD,Eastern,Bhubaneswar,26-Jan-50,"4,19,74,218","1,55,820",Odia
+21,Punjab,IN-PB,PB,Northern,Chandigarh,01-Nov-66,"2,77,43,338","50,362",Punjabi
+22,Rajasthan,IN-RJ,RJ,Northern,Jaipur,26-Jan-50,"6,85,48,437","3,42,269",Hindi
+23,Sikkim,IN-SK,SK,North-Eastern,Gangtok,16-May-75,"6,10,577","7,096","English, Nepali"
+24,Tamil Nadu,IN-TN,TN,Southern,Chennai,01-Nov-56,"7,21,47,030","1,30,058",Tamil
+25,Telangana,IN-TG,TS,Southern,Hyderabad,02-Jun-14,"35,193,978[48]","114,840[48]",Telugu
+26,Tripura,IN-TR,TR,North-Eastern,Agartala,21-Jan-72,3673917,10492,"Bengali, English, Kokborok"
+27,Uttar Pradesh,IN-UP,UP,Northern,Lucknow,26-Jan-50,"19,98,12,341","2,43,286",Hindi
+28,Uttarakhand,IN-UT,UK,Northern,Dehradun,09-Nov-00,"1,00,86,292","53,483",Hindi
+29,West Bengal,IN-WB,WB,Eastern,Kolkata,26-Jan-50,"9,12,76,115","88,752","Bengali, Nepali"
