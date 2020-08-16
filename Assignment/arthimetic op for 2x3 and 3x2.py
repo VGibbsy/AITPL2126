@@ -5,5 +5,6 @@ print("......................")
 y=np.array([[7,8],[9,10],[11,12]])
 print(y)
 print("......................")
+#print(x+y)
+#print(x-y)
 print(x*y)
-#we cant perform this operation because number of rows must be equal to number of colomuns
